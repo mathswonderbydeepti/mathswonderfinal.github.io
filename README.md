@@ -1,2 +1,1 @@
-# mathswonderfinal.github.io
-Mathswonder Final
+# mathswonder
