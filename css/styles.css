@@ -166,6 +166,12 @@ strong { font-weight: 600; }
   flex-shrink: 0;
   text-decoration: none;
 }
+.nav__logo-img {
+  height: 44px;
+  width: 44px;
+  object-fit: contain;
+  border-radius: 4px;
+}
 .nav__logo-text {
   font-size: 1.35rem;
   font-weight: 800;
