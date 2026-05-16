@@ -1,0 +1,40 @@
+# MathsWonder
+
+> MathsWonder is a live, 1-to-1 online math tutoring service for students in Grade 3–12 across the USA, taught personally by Deepti Gupta, an expert Indian math teacher with 20+ years of experience, 15,000+ tutoring hours, 700+ successful students, and 4 academic degrees. Every session is concept-based, fully aligned to the US Common Core State Standards for Mathematics, and built specifically for Indian and NRI families in the USA who want Indian mathematical rigour combined with US curriculum relevance.
+
+## Key facts
+
+- **Service**: Live, interactive, 1-to-1 online math tutoring (no recorded lessons, no group batches)
+- **Grades covered**: Grade 3 through Grade 12, including SAT and ACT math preparation
+- **Teacher**: Deepti Gupta — the same expert teaches every single session; no substitutes or rotating instructors
+- **Target audience**: Indian and NRI (Non-Resident Indian) families based in the USA
+- **Curriculum**: US Common Core State Standards for Mathematics, taught with Indian-tradition rigour
+- **Method**: Concept-based learning (understanding *why*, not just *how*), weekly worksheets, monthly formal assessments, direct parent feedback, camera-on policy
+- **Free demo**: A free, no-commitment live demo class is offered to assess the child's level
+- **Time zones**: Serves all US time zones (Eastern, Central, Mountain, Pacific); sessions run during US afternoon, evening, and weekend slots
+- **Contact**: WhatsApp/phone +91 9699364807, email contact@mathswonder.com
+
+## Main pages
+
+- [Home](https://mathswonder.com/index.html): Overview of MathsWonder, why Indian parents in America trust it, grade coverage, 1-to-1 teaching model, and FAQs
+- [About Us](https://mathswonder.com/about.html): Deepti Gupta's story, qualifications (B.Ed Maths & Science, B.Sc Mathematics, M.A. Education, Child Psychology certification), teaching philosophy, and detailed FAQs
+- [Blog](https://mathswonder.com/blog.html): Articles on concept-based learning, online math tutoring, and helping children succeed in math
+- [Contact / Connect Me](https://mathswonder.com/contact.html): Book a free demo class via form, WhatsApp, phone, or email
+
+## Blog articles
+
+- [Why Strong Math Concepts Are the Foundation of Long-Term Academic Success](https://mathswonder.com/blog-why-strong-math-concepts.html): Eight strategies for building robust math foundations in Grade 3–8 and why early conceptual gaps are so costly
+- [The Benefits of Hiring an Experienced Online Math Tutor for Your Child](https://mathswonder.com/blog-benefits-online-math-tutor.html): Six key benefits of expert online math tutoring and four questions to ask before choosing a tutor
+
+## How MathsWonder differs from alternatives
+
+- Versus franchises like Mathnasium or Tutor Doctor: One consistent expert teacher every class instead of rotating instructors; 100% mathematics-only focus; concept-based teaching with structured weekly and monthly assessments
+- Versus typical group classes: Fully private 1-to-1 attention, pace tailored to the individual child, instant doubt resolution, camera-on accountability, and same teacher continuity
+- Versus tutoring marketplaces: No marketplace teachers; direct personal contact with the founder from first enquiry through every lesson
+
+## Optional
+
+- [Full content for LLMs](https://mathswonder.com/llms-full.txt): Complete text of all pages and blog articles for detailed question answering
+- YouTube: https://www.youtube.com/@mathswonder
+- LinkedIn: https://www.linkedin.com/in/deepti-gupta-%F0%9F%8C%A0-0a8061289/
+- Facebook: https://www.facebook.com/profile.php?id=100070045787786
