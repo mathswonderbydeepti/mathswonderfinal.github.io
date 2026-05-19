@@ -113,6 +113,92 @@ Enrolment is simple and direct. Contact Deepti via WhatsApp at +91 9699364807 or
 
 ---
 
+## Page: Curriculum
+
+URL: https://mathswonder.com/curriculum.html
+
+Full US mathematics curriculum for Grade 3 through Grade 12, aligned to the Common Core State Standards (CCSS) used by 41+ US states. Also covers PSAT 8/9, PSAT/NMSQT, and Digital SAT Math preparation. Useful for parents and students planning a structured learning journey with MathsWonder.
+
+States using their own standards (Texas TEKS, Virginia SOL, Florida B.E.S.T.) follow a closely comparable progression — the same syllabus applies nationwide.
+
+### Grade 3 (Ages 8–9)
+Focus: Multiplication & division within 100, fractions as numbers, area, properties of shapes.
+Domains: Operations & Algebraic Thinking — multiply/divide within 100, two-step word problems, arithmetic patterns. Number & Operations in Base Ten — rounding, add/subtract within 1,000, multiply by multiples of 10. Number & Operations — Fractions — fractions as numbers on a number line, fraction equivalence. Measurement & Data — time, area, perimeter, bar graphs. Geometry — shape attributes, unit fractions.
+
+### Grade 4 (Ages 9–10)
+Focus: Multi-digit multiplication, division with remainders, fraction equivalence and operations, geometric measurement.
+Domains: Operations & Algebraic Thinking — multiplicative comparison, multi-step problems, factor pairs, prime/composite. Number & Operations in Base Ten — multi-digit numbers, standard algorithms, 4×1 and 2×2 multiplication. Fractions — equivalence, add/subtract with like denominators, multiply fraction by whole number, decimal notation. Measurement & Geometry — unit conversion, angle measurement, protractor, classify 2D figures, symmetry.
+
+### Grade 5 (Ages 10–11)
+Focus: Fraction operations, decimal operations to thousandths, volume, coordinate plane.
+Domains: Operations & Algebraic Thinking — order of operations, parentheses/brackets, patterns as ordered pairs. Number & Operations in Base Ten — decimals to thousandths, standard algorithms, add/subtract/multiply/divide decimals. Fractions — unlike denominators, multiply/divide fractions, fraction as scaling. Measurement & Data — volume (V = l×w×h). Geometry — coordinate plane, shape classification hierarchy.
+
+### Grade 6 (Ages 11–12)
+Focus: Ratios and rates, division of fractions, rational numbers, expressions and equations, statistical thinking.
+Domains: Ratios & Proportional Relationships — unit rate, ratio problems, percent. The Number System — divide fractions by fractions, positive/negative numbers, absolute value. Expressions & Equations — exponents, equivalent expressions, one-variable equations and inequalities. Geometry — area, volume, surface area. Statistics — mean, median, IQR, dot plots, histograms, box plots.
+
+### Grade 7 (Ages 12–13)
+Focus: Proportional relationships, operations with rational numbers, linear expressions, probability.
+Domains: Ratios — constant of proportionality, percent problems (tax, discount, interest). The Number System — all rational number operations including negatives. Expressions & Equations — linear expressions, px+q=r, inequalities. Geometry — scale drawings, circle area and circumference, volume/surface area. Statistics & Probability — random sampling, probability models, compound events.
+
+### Grade 8 (Ages 13–14)
+Focus: Linear equations and functions, systems, integer exponents, Pythagorean Theorem, bivariate data.
+Domains: The Number System — irrational numbers, real number system. Expressions & Equations — integer exponents, scientific notation, slope, linear equations, systems of linear equations. Functions — function definition, y=mx+b, linear vs nonlinear. Geometry — transformations (rigid motions and dilations), congruence, similarity, Pythagorean Theorem, volume of cylinders/cones/spheres. Statistics — scatter plots, association, lines of best fit, two-way tables.
+
+### Grade 9 — Algebra I (Ages 14–15)
+Focus: Linear, quadratic, and exponential relationships — cornerstone high-school course.
+Domains: Number & Quantity — rational exponents, radicals, units as modeling tool. Algebra — expression structure, factoring, completing the square, polynomials, linear/quadratic/exponential equations, systems. Functions — notation, key features, compare linear/quadratic/exponential, sequences. Statistics — single-variable data, two-variable data, correlation vs causation.
+
+### Grade 10 — Geometry (Ages 15–16)
+Focus: Congruence, similarity, trigonometry, circles, geometric measurement, and proof.
+Domains: Congruence — rigid motions, triangle congruence (ASA, SAS, SSS), geometric proofs. Similarity & Trigonometry — dilations, sine/cosine/tangent, right triangles, Laws of Sines and Cosines. Circles — theorems, arc length, sectors. Coordinates — circle and parabola equations, coordinate proofs. Measurement & Modeling — volume formulas, cylinders, pyramids, cones, spheres, density/design problems.
+
+### Grade 11 — Algebra II (Ages 16–17)
+Focus: Polynomial, rational, radical, exponential, logarithmic, and trigonometric functions; advanced statistics.
+Domains: Number & Quantity — complex numbers, Fundamental Theorem of Algebra. Algebra — polynomial arithmetic, Remainder/Factor Theorems, rational and radical equations, nonlinear systems. Functions — polynomial, rational, exponential, logarithmic, trigonometric; inverse functions; unit circle; radian measure; Pythagorean identity. Statistics & Probability — normal distribution, standard deviation, conditional probability, statistical inference.
+
+### Grade 12 — Precalculus (Ages 17–18)
+Focus: Advanced functions, trigonometry, vectors, matrices, sequences/series — preparation for Calculus.
+Domains: Functions & Trigonometry — inverse trig functions, trig identities (sum/difference, double-angle, half-angle), Laws of Sines/Cosines, polar coordinates, parametric equations, introductory limits. Vectors & Matrices — vector operations, matrix arithmetic, determinants, inverses. Conic Sections — parabolas, ellipses, hyperbolas; De Moivre's Theorem. Sequences & Series — arithmetic/geometric sequences, sigma notation, Binomial Theorem, combinatorics, probability distributions and expected value.
+
+### PSAT 8/9 (Grades 8–9)
+Digital adaptive test. Calculator (Desmos) allowed throughout. Domains: Algebra (linear equations, functions, systems, inequalities); Advanced Math foundational (equivalent expressions, intro nonlinear functions); Problem-Solving & Data Analysis (ratios, rates, percent, data distributions, probability, inference); Geometry & Trigonometry (area, volume, lines, angles, triangles, basic trig).
+
+### PSAT/NMSQT & PSAT 10 (Grades 10–11)
+National Merit Scholarship qualifying test (Grade 11). Same digital adaptive format as SAT. Domain weightings: Algebra ~35%, Advanced Math ~35%, Problem-Solving & Data Analysis ~15%, Geometry & Trigonometry ~15%. Includes nonlinear functions (quadratic, exponential, polynomial).
+
+### Digital SAT Math (Grades 11–12)
+Multistage adaptive: two modules; Module 1 performance determines Module 2 difficulty. Calculator (Desmos) allowed throughout. Includes multiple-choice and student-produced response (grid-in). Domain weightings: Algebra ~35%, Advanced Math ~35%, Problem-Solving & Data Analysis ~15%, Geometry & Trigonometry ~15%. Advanced Math includes quadratic/exponential/polynomial/rational functions, function notation and transformations. Geometry & Trigonometry includes circle equations, arcs, sectors, radians.
+Preparation strategy: master Algebra and Advanced Math first (~70% of section); fluency with Desmos graphing calculator; practice full-length adaptive tests; review error logs by domain.
+
+### Curriculum — Frequently Asked Questions
+
+**Q: What US math curriculum does MathsWonder follow?**
+A: MathsWonder follows the Common Core State Standards (CCSS) for Mathematics, used by 41+ US states. The curriculum covers Grade 3 through Grade 12, progressing through elementary math, middle school math, Algebra I, Geometry, Algebra II, and Precalculus. MathsWonder also prepares students for PSAT 8/9, PSAT/NMSQT, and the Digital SAT Math section.
+
+**Q: Does MathsWonder cover Texas, Virginia, or Florida math standards?**
+A: Yes. States like Texas (TEKS), Virginia (SOL), and Florida (B.E.S.T.) follow a closely comparable mathematical progression to the Common Core. The underlying topics and grade-level content are virtually identical — only naming conventions differ. Deepti tailors each student's programme to their specific school's requirements.
+
+**Q: Does MathsWonder prepare students for the Digital SAT Math section?**
+A: Yes. MathsWonder offers targeted preparation for the Digital SAT Math section, covering all four content domains: Algebra (~35%), Advanced Math (~35%), Problem-Solving & Data Analysis (~15%), and Geometry & Trigonometry (~15%). Preparation also covers PSAT 8/9 and PSAT/NMSQT for students in Grades 8–11.
+
+**Q: What topics are covered in Grade 6 math?**
+A: Grade 6 covers ratios and proportional relationships (unit rate, percent), the number system (dividing fractions by fractions, negative numbers, absolute value), expressions and equations (one-variable equations and inequalities), geometry (area, surface area, volume), and statistics (mean, median, IQR, dot plots, histograms, box plots).
+
+**Q: What is taught in Algebra I (Grade 9)?**
+A: Algebra I covers linear, quadratic, and exponential relationships. Topics include structure of expressions, factoring, completing the square, polynomial operations, creating and solving equations and inequalities in one and two variables, systems of equations, function notation, key features of linear/quadratic/exponential functions, arithmetic and geometric sequences, and interpreting data with linear models.
+
+**Q: What is the difference between PSAT 8/9 and the Digital SAT?**
+A: PSAT 8/9 (Grades 8–9) is the entry-level assessment — it uses the same four content domains but at a lower difficulty level and serves as a baseline. The Digital SAT (Grades 11–12) is the primary college admissions test with a multistage adaptive format; Algebra and Advanced Math together make up ~70% of the math section. The PSAT/NMSQT (Grade 11) sits between the two and qualifies students for the National Merit Scholarship Program.
+
+**Q: At what grade does MathsWonder start teaching algebra?**
+A: Algebraic thinking begins in Grade 3 with patterns and properties. Variables and expressions are formally introduced in Grade 6. Linear equations and inequalities deepen in Grade 7. The full Algebra I course is taught in Grade 9, covering linear, quadratic, and exponential functions. Algebra II (Grade 11) extends to polynomial, rational, logarithmic, and trigonometric functions.
+
+**Q: Does MathsWonder cover geometry?**
+A: Yes. Geometry concepts begin in elementary grades (shapes, area, perimeter) and deepen through middle school (transformations, Pythagorean Theorem, volume). The dedicated Geometry course is taught in Grade 10, covering congruence, similarity, trigonometry, circles, coordinate geometry, and geometric proof.
+
+---
+
 ## Page: About Us
 
 URL: https://mathswonder.com/about.html

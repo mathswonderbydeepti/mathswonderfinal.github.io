@@ -1,4 +1,42 @@
+# robots.txt — MathsWonder
+# https://mathswonder.com
+
+# ── All legitimate crawlers ──────────────────────────────────────────────────
 User-agent: *
 Allow: /
+Disallow: /Trying_new/
 
 Sitemap: https://mathswonder.com/sitemap.xml
+
+# ── Block AI training scrapers (no SEO benefit; content in llms.txt instead) ─
+# OpenAI training crawler
+User-agent: GPTBot
+Disallow: /
+
+# Common Crawl (feeds many AI datasets)
+User-agent: CCBot
+Disallow: /
+
+# Google AI training (separate from Googlebot for search)
+User-agent: Google-Extended
+Disallow: /
+
+# Anthropic training crawler
+User-agent: anthropic-ai
+Disallow: /
+
+# Meta AI training crawler
+User-agent: FacebookBot
+Disallow: /
+
+# Bytedance / TikTok AI
+User-agent: Bytespider
+Disallow: /
+
+# Amazon Alexa / Diffbot
+User-agent: Diffbot
+Disallow: /
+
+# PerplexityBot — block training; Perplexity still serves your llms.txt
+User-agent: PerplexityBot
+Disallow: /

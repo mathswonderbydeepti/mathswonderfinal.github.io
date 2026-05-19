@@ -17,6 +17,7 @@
 ## Main pages
 
 - [Home](https://mathswonder.com/index.html): Overview of MathsWonder, why Indian parents in America trust it, grade coverage, 1-to-1 teaching model, and FAQs
+- [Curriculum](https://mathswonder.com/curriculum.html): Full US math curriculum for Grade 3–12 aligned to Common Core State Standards, covering all major domains per grade plus PSAT 8/9, PSAT/NMSQT, and Digital SAT Math preparation
 - [About Us](https://mathswonder.com/about.html): Deepti Gupta's story, qualifications (B.Ed Maths & Science, B.Sc Mathematics, M.A. Education, Child Psychology certification), teaching philosophy, and detailed FAQs
 - [Blog](https://mathswonder.com/blog.html): Articles on concept-based learning, online math tutoring, and helping children succeed in math
 - [Contact / Connect Me](https://mathswonder.com/contact.html): Book a free demo class via form, WhatsApp, phone, or email
