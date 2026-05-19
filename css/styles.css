@@ -856,19 +856,22 @@ strong { font-weight: 600; }
   margin-top: 1.25rem;
 }
 .footer__social a {
-  width: 36px;
-  height: 36px;
-  background: rgba(255,255,255,.1);
+  width: 38px;
+  height: 38px;
   border-radius: var(--radius-sm);
   display: flex;
   align-items: center;
   justify-content: center;
-  font-size: 1rem;
-  color: rgba(255,255,255,.75);
-  transition: background var(--transition), color var(--transition);
+  color: #fff;
+  transition: filter var(--transition), transform var(--transition);
   text-decoration: none;
 }
-.footer__social a:hover { background: var(--clr-accent); color: var(--clr-text); }
+.footer__social a svg { width: 18px; height: 18px; fill: currentColor; flex-shrink: 0; }
+/* Brand colors — YouTube, LinkedIn, Facebook */
+.footer__social a:nth-child(1) { background: #FF0000; }
+.footer__social a:nth-child(2) { background: #0A66C2; }
+.footer__social a:nth-child(3) { background: #1877F2; }
+.footer__social a:hover { filter: brightness(1.15); transform: translateY(-3px); }
 .footer__bottom {
   padding-block: 1.25rem;
   text-align: center;
